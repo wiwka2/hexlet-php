@@ -1,0 +1,15 @@
+{
+    "name": "wiwka/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Wiwka\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wiwka2",
+            "email": "dimkaakadiem@gmail.com"
+        }
+    ],
+    "require": {}
+}
