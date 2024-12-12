@@ -11,5 +11,7 @@
             "email": "dimkaakadiem@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^11.35"
+    }
 }
